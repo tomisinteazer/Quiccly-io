@@ -1,6 +1,6 @@
-# quiccly-io
+## Quiccly-io
 
-## Ecommerce application 
+# Ecommerce application 
 # built with Nuxtjs and Firebase
 
 ```bash
