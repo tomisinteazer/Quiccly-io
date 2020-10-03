@@ -1,6 +1,7 @@
 # quiccly-io
 
-## Build Setup
+## Ecommerce application 
+# built with Nuxtjs and Firebase
 
 ```bash
 # install dependencies
